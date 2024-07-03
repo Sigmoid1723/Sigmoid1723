@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhairya Gadani
 - 👀 I’m interested in OpenSource,GameDev,Kernel,OS,GUI-Apps,Compititive Programming
-- 🌱 I’m currently learning Qt-Apps
+- 🌱 I’m currently learning Qt-Apps,Rust
 - ⚡ Fun fact: Yeah! I know I'm genuis pretty much.
 
 <!---
