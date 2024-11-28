@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhairya Gadani
 - 👀 I’m interested in OpenSource,GameDev,Kernel,OS,GUI-Apps,Compititive Programming
-- 🌱 I’m currently learning System-Programming
+- 🌱 I’m currently learning Full Stack Web-Development
 - ⚡ Fun fact: I can make that work!
 
 <!---
